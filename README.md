@@ -1,1 +1,1 @@
-These are my solutions for the assignments of this certificate.
+These are my solutions for the assignments in this certificate.
